@@ -57,7 +57,7 @@ The maven build will provide two jar files (target folder)
     - slim-app.jar
         - Dependencies are in slim-app.lib folder
 
- ``` bash
+``` bash
     java -jar target/slim-app.jar
 ```
 

@@ -19,20 +19,21 @@ GRPC - An open source remote procedure call system initially developed at Google
 SPARK - An open-source cluster-computing framework.
 MAVEN - A build automation tool used primarily for Java projects.
 ```
+
 ## Features to be implemented
 
-- [] Users can sign up.
-- [] Users can login.
-- [] User can set single vertex
-- [] User can set single edge relationship
-- [] User can set Multiple edge relationship
-- [] User can search vertex
-- [] User can search edge (Single)
-- [] User can search edges (Multiple)
-- [] User can search hop vertex
-- [] User can search hop edges
-- [] User can define relationship
-- [] User can load csv file
+- [ ] Users can sign up.
+- [ ] Users can login.
+- [ ] User can set single vertex
+- [ ] User can set single edge relationship
+- [ ] User can set Multiple edge relationship
+- [ ] User can search vertex
+- [ ] User can search edge (Single)
+- [ ] User can search edges (Multiple)
+- [ ] User can search hop vertex
+- [ ] User can search hop edges
+- [ ] User can define relationship
+- [ ] User can load csv file
 
 
 ## START CLUSTER

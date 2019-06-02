@@ -13,7 +13,7 @@ Clean and install project dependency
 The maven build will provide two jar files (target folder)
 
     - Bundle-app.jar
-        - It is bundled with all its dependency
+        - It is bundled with all its dependencies
 
     - slim-app.jar
         - Dependencies is in the slim-app.lib folder
